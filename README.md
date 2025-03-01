@@ -24,7 +24,7 @@ cd Amazon-Clone
 
 3.Open the index.html file in your web browser.
 
-live preview :
+live preview : https://darkuser21.github.io/Amazon-Clone/
 
 Contributing :
 While this project is primarily for personal use, pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
